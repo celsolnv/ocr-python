@@ -10,7 +10,6 @@
     Antes de tudo, você vai precisar instalar os pacotes abaixo 
 </h3>
 <ul>
-
     <li>tesseract-ocr</li>
     <li>tesseract-ocr-por</li>    
     <li>python3-opencv</li>
@@ -18,15 +17,12 @@
     <li>pillow</li>
     <li>opencv-python</li>
     <li>pytesseract</li>
-    
 </ul>
 
 <h3>
-    Essas são as linhas
-    de comando para quem usa alguma distribuição linux
+    Execute esses comandos caso esteja em um linux
 </h3>
 <ul>
-
     <li>sudo apt-get install tesseract-ocr</li>
     <li>sudo apt-get install tesseract-ocr-por</li>    
     <li>sudo apt-get install python3-opencv</li>
@@ -34,7 +30,6 @@
     <li>pip3 install pillow</li>
     <li>pip3 install opencv-python</li>
     <li>pip3 install pytesseract</li>
-    
 </ul>
 
 <h3>Testando</h3>
